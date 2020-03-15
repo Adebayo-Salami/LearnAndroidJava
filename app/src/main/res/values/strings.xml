@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">SAVE</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_description">Note Description</string>
+    <string name="title_activity_note">Note Keeper</string>
+    <string name="title_view_note">Edit Note</string>
+    <string name="text_view">Text View</string>
+    <string name="title_view">Title View</string>
+    <string name="next">Next</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_home">NoteKeeper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="salami_learn_application">Salami Learn Application</string>
+    <string name="beginning_of_something_great">Beginning of something great</string>
+    <string name="communicate">Communicate</string>
+    <string name="notes">Notes</string>
+    <string name="courses">Courses</string>
+    <string name="todo">TODO</string>
+    <string name="todoCourse">TODO</string>
+    <string name="nav_share_message">Don\'t you think you\'ve shared enough</string>
+    <string name="nav_send_message">send</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="pref_default_name">Your Name</string>
+    <string name="pref_default_emailAddress">Your Email Address</string>
+    <string-array name="pref_entries_favourite_social">
+        <item>Google+</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+    <string-array name="pref_values_favourite_social">
+        <item>http://plus.google.com</item>
+        <item>http://facebook.com</item>
+        <item>http://twitter.com</item>
+    </string-array>
+    <string name="pref_default_favourite_social">http://plus.google.com</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="pref_title_favourite_social">Favourite Social Network</string>
+</resources>
